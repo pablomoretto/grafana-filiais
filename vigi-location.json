@@ -1,0 +1,111 @@
+ [
+  {
+    "key" : "IJUI",
+    "name" : "Ijui",
+    "latitude" : -28.3836,
+    "longitude" : -53.9277
+  },
+  {
+    "key" : "CAXIAS",
+    "name" : "Caxias",
+    "latitude" : -29.1565,
+    "longitude" : -51.2232
+  },
+  {
+    "key" : "CAXIAS6",
+    "name" : "Ijui",
+    "latitude" : -29.1814,
+    "longitude" : -51.331
+  },
+  {
+    "key" : "MISSOES",
+    "name" : "Missoes",
+    "latitude" : -28.5017,
+    "longitude" : -54.5815
+  },
+  {
+    "key" : "FARROUPILHA",
+    "name" : "Farroupilha",
+    "latitude" : -29.2201,
+    "longitude" : -51.3563
+  },
+  {
+    "key" : "CANDIOTA",
+    "name" : "Candiota",
+    "latitude" : -31.5129,
+    "longitude" : -53.7895
+  },
+  {
+    "key" : "TAPERA",
+    "name" : "Tapera",
+    "latitude" : -28.6255,
+    "longitude" : -52.8724
+  },
+  {
+    "key" : "CHARQUEADAS",
+    "name" : "Charqueadas",
+    "latitude" : -29.9673,
+    "longitude" : -51.6111
+  },
+  {
+    "key" : "ATLANTIDA",
+    "name" : "Atlantida",
+    "latitude" : -29.7545,
+    "longitude" : -50.0252
+  },
+  {
+    "key" : "GRAVATAI",
+    "name" : "Gravatai",
+    "latitude" : -29.9253,
+    "longitude" : -50.9761
+  },
+  {
+    "key" : "GRAVATAI03",
+    "name" : "Gravatai03",
+    "latitude" : -29.8372,
+    "longitude" : -50.8875
+  },
+  {
+    "key" : "ALEGRETE",
+    "name" : "Alegrete",
+    "latitude" : -29.7677,
+    "longitude" : -55.801
+  },
+  {
+    "key" : "NSR",
+    "name" : "NSR",
+    "latitude" : -29.8355,
+    "longitude" : -51.2787
+  },
+  {
+    "key" : "SANTOANGELO",
+    "name" : "Santo Angelo",
+    "latitude" : -28.3001,
+    "longitude" : -54.2659
+  },
+  {
+    "key" : "PASSOFUNDO",
+    "name" : "Passo Fundo",
+    "latitude" : -28.2504,
+    "longitude" : -52.4327
+  },
+  {
+    "key" : "LAJEADOGRANDE",
+    "name" : "Lajeado Grande",
+    "latitude" : -26.8591,
+    "longitude" : -52.5678
+  },
+  {
+    "key" : "FOZdoCHAPECO",
+    "name" : "Foz do Chapeco",
+    "latitude" : -27.5886,
+    "longitude" : -48.5474
+  },
+  {
+    "key" : "NOVAPETROPOLIS",
+    "name" : "Nova Petropolis",
+    "latitude" : -29.3667,
+    "longitude" : -51.1021
+  }
+  
+]
