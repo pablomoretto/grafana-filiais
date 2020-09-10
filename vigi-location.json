@@ -106,6 +106,12 @@
     "name" : "Nova Petropolis",
     "latitude" : -29.3667,
     "longitude" : -51.1021
+  },
+  {
+    "key" : "VERANOPOLIS",
+    "name" : "Veranopolis",
+    "latitude" : -28.9297,
+    "longitude" : -51.5501
   }
   
 ]
