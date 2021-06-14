@@ -184,7 +184,11 @@
     "name" : "Curitiba PR",
     "latitude" : -25.4371,
     "longitude" : -49.2708
+  },
+  {
+    "key" : "AJU",
+    "name" : "Aracaju SE",
+    "latitude" : -10.9469,
+    "longitude" : -37.0674
   }
 ]
-
-
